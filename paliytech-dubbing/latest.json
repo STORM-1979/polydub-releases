@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "product": "PaliyTech Dubbing",
+  "win": {
+    "version": "1.0.1",
+    "date": "2026-10-15",
+    "notes": {
+      "ru": "• Онлайн-голоса Microsoft снова работают (14.10 Microsoft изменил доступ) и теперь обновляются сами — без новой версии программы.\n• Программа сама сообщает о выходе новой версии.\n• Исправления и улучшения перевода и озвучки.",
+      "uk": "• Онлайн-голоси Microsoft знову працюють (14.10 Microsoft змінив доступ) і тепер оновлюються самі — без нової версії програми.\n• Програма сама повідомляє про вихід нової версії.\n• Виправлення й покращення перекладу та озвучення.",
+      "en": "• Microsoft online voices work again (Microsoft changed access on Oct 14) and now update themselves — no new program version needed.\n• The program now tells you when a new version is out.\n• Fixes and improvements to translation and voice-over.",
+      "de": "• Die Online-Stimmen von Microsoft funktionieren wieder (am 14.10. hat Microsoft den Zugang geändert) und aktualisieren sich jetzt selbst – ohne neue Programmversion.\n• Das Programm meldet jetzt selbst, wenn eine neue Version erscheint.\n• Korrekturen und Verbesserungen bei Übersetzung und Vertonung.",
+      "fr": "• Les voix en ligne Microsoft fonctionnent de nouveau (Microsoft a modifié l'accès le 14 octobre) et se mettent désormais à jour toutes seules, sans nouvelle version du programme.\n• Le programme signale lui-même la sortie d'une nouvelle version.\n• Corrections et améliorations de la traduction et du doublage.",
+      "es": "• Las voces en línea de Microsoft vuelven a funcionar (el 14 de octubre Microsoft cambió el acceso) y ahora se actualizan solas, sin una nueva versión del programa.\n• El programa avisa cuando sale una versión nueva.\n• Correcciones y mejoras de la traducción y el doblaje.",
+      "it": "• Le voci online di Microsoft funzionano di nuovo (il 14 ottobre Microsoft ha cambiato l'accesso) e ora si aggiornano da sole, senza una nuova versione del programma.\n• Il programma avvisa quando esce una nuova versione.\n• Correzioni e miglioramenti di traduzione e doppiaggio.",
+      "pt": "• As vozes online da Microsoft voltaram a funcionar (em 14 de outubro a Microsoft mudou o acesso) e agora se atualizam sozinhas, sem nova versão do programa.\n• O programa avisa quando sai uma nova versão.\n• Correções e melhorias na tradução e na dublagem.",
+      "pl": "• Głosy online Microsoftu znowu działają (14 października Microsoft zmienił dostęp) i teraz aktualizują się same — bez nowej wersji programu.\n• Program sam informuje o nowej wersji.\n• Poprawki i ulepszenia tłumaczenia i dubbingu."
+    }
+  },
+  "mac": {
+    "version": "1.0.0",
+    "date": "2026-10-15",
+    "notes": {
+      "ru": "Раздел Mac-версии заполняет Mac-линия при её выпуске.",
+      "en": "The Mac section is filled in by the Mac line when it ships a release."
+    }
+  }
+}
