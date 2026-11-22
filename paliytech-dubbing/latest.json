@@ -2,21 +2,24 @@
   "schema": 1,
   "product": "PaliyTech Dubbing",
   "win": {
-    "version": "1.0.4",
-    "date": "2026-11-20",
-    "file": "PaliyTechDubbing-v1.0.4-win64.zip",
+    "version": "1.0.6",
+    "date": "2026-11-22",
+    "file": "PaliyTechDubbing-v1.0.6-win64.zip",
     "size_mb": 2662,
     "notes": {
-      "ru": "• Активация в одно поле: вставьте код покупки или ключ — программа сама поймёт, что это.\n• Покупка в Telegram: окно активации само получает ключ, ничего копировать не нужно; если Telegram для Windows не установлен, откроется Telegram в браузере.\n• Мелкие исправления.",
-      "uk": "• Активація в одне поле: вставте код покупки або ключ — програма сама зрозуміє, що це.\n• Покупка в Telegram: вікно активації саме отримує ключ, нічого копіювати не треба; якщо Telegram для Windows не встановлено, відкриється Telegram у браузері.\n• Дрібні виправлення.",
-      "en": "• Activation in a single field: paste a purchase code or a key, and the program figures out which it is.\n• Buying in Telegram: the activation window receives the key by itself, nothing to copy; without Telegram for Windows, Telegram opens in the browser.\n• Minor fixes.",
-      "de": "• Aktivierung in einem einzigen Feld: Kaufcode oder Schlüssel einfügen – das Programm erkennt selbst, was es ist.\n• Kauf über Telegram: Das Aktivierungsfenster erhält den Schlüssel selbst, nichts muss kopiert werden; ohne Telegram für Windows öffnet sich Telegram im Browser.\n• Kleinere Korrekturen.",
-      "fr": "• Activation dans un seul champ : collez un code d'achat ou une clé, le programme reconnaît lui-même de quoi il s'agit.\n• Achat via Telegram : la fenêtre d'activation reçoit la clé d'elle-même, rien à copier ; sans Telegram pour Windows, Telegram s'ouvre dans le navigateur.\n• Corrections mineures.",
-      "es": "• Activación en un solo campo: pegue un código de compra o una clave y el programa reconoce solo qué es.\n• Compra por Telegram: la ventana de activación recibe la clave sola, no hay que copiar nada; sin Telegram para Windows, Telegram se abre en el navegador.\n• Correcciones menores.",
-      "it": "• Attivazione in un solo campo: incolla un codice d'acquisto o una chiave e il programma capisce da solo di cosa si tratta.\n• Acquisto su Telegram: la finestra di attivazione riceve la chiave da sola, non serve copiare nulla; senza Telegram per Windows, Telegram si apre nel browser.\n• Correzioni minori.",
-      "pt": "• Ativação em um único campo: cole um código de compra ou uma chave e o programa reconhece sozinho o que é.\n• Compra pelo Telegram: a janela de ativação recebe a chave sozinha, não é preciso copiar nada; sem o Telegram para Windows, o Telegram abre no navegador.\n• Pequenas correções.",
-      "pl": "• Aktywacja w jednym polu: wklej kod zakupu lub klucz — program sam rozpozna, co to jest.\n• Zakup w Telegramie: okno aktywacji samo odbiera klucz, nic nie trzeba kopiować; bez Telegrama dla Windows Telegram otworzy się w przeglądarce.\n• Drobne poprawki."
-    }
+      "ru": "• Новые версии ставятся одной кнопкой «Обновить»: программа сама скачает и установит их, настройки и активация сохранятся.\n• Новые онлайн-голоса для английского, немецкого, французского, испанского, итальянского, португальского, польского и русского — звучат естественнее.\n• Реплика из одних цифр читается словами на нужном языке.\n• Окна программы открываются без подвисаний.\n• Мелкие исправления.",
+      "uk": "• Нові версії встановлюються однією кнопкою «Оновити»: програма сама завантажить і встановить їх, налаштування та активація збережуться.\n• Нові онлайн-голоси для англійської, німецької, французької, іспанської, італійської, португальської, польської та російської — звучать природніше.\n• Репліка з самих цифр читається словами потрібною мовою.\n• Вікна програми відкриваються без зависань.\n• Дрібні виправлення.",
+      "en": "• New versions install with one button, \"Update\": the program downloads and installs them itself, keeping your settings and activation.\n• New online voices for English, German, French, Spanish, Italian, Portuguese, Polish and Russian — they sound more natural.\n• A line made only of digits is read out as words in the right language.\n• Program windows open without freezing.\n• Minor fixes.",
+      "de": "• Neue Versionen werden mit einem Klick auf „Aktualisieren“ installiert: Das Programm lädt sie selbst herunter und installiert sie, Einstellungen und Aktivierung bleiben erhalten.\n• Neue Online-Stimmen für Englisch, Deutsch, Französisch, Spanisch, Italienisch, Portugiesisch, Polnisch und Russisch – sie klingen natürlicher.\n• Eine Zeile nur aus Ziffern wird in der richtigen Sprache als Wörter vorgelesen.\n• Programmfenster öffnen sich ohne Hänger.\n• Kleinere Korrekturen.",
+      "fr": "• Les nouvelles versions s'installent d'un seul bouton, « Mettre à jour » : le programme les télécharge et les installe lui-même, en conservant vos réglages et votre activation.\n• Nouvelles voix en ligne pour l'anglais, l'allemand, le français, l'espagnol, l'italien, le portugais, le polonais et le russe : elles sonnent plus naturelles.\n• Une réplique composée uniquement de chiffres est lue en toutes lettres dans la bonne langue.\n• Les fenêtres du programme s'ouvrent sans blocage.\n• Corrections mineures.",
+      "es": "• Las nuevas versiones se instalan con un solo botón, «Actualizar»: el programa las descarga e instala por sí mismo y conserva tus ajustes y la activación.\n• Nuevas voces en línea para inglés, alemán, francés, español, italiano, portugués, polaco y ruso: suenan más naturales.\n• Una frase formada solo por cifras se lee con palabras en el idioma correcto.\n• Las ventanas del programa se abren sin bloqueos.\n• Correcciones menores.",
+      "it": "• Le nuove versioni si installano con un solo pulsante, «Aggiorna»: il programma le scarica e le installa da solo, mantenendo impostazioni e attivazione.\n• Nuove voci online per inglese, tedesco, francese, spagnolo, italiano, portoghese, polacco e russo: suonano più naturali.\n• Una battuta fatta solo di cifre viene letta a parole nella lingua giusta.\n• Le finestre del programma si aprono senza blocchi.\n• Correzioni minori.",
+      "pt": "• As novas versões instalam-se com um só botão, «Atualizar»: o programa baixa e instala sozinho, mantendo as suas configurações e a ativação.\n• Novas vozes online para inglês, alemão, francês, espanhol, italiano, português, polonês e russo — soam mais naturais.\n• Uma fala composta só de algarismos é lida por extenso no idioma certo.\n• As janelas do programa abrem sem travamentos.\n• Pequenas correções.",
+      "pl": "• Nowe wersje instalują się jednym przyciskiem „Aktualizuj”: program sam je pobierze i zainstaluje, zachowując ustawienia i aktywację.\n• Nowe głosy online dla angielskiego, niemieckiego, francuskiego, hiszpańskiego, włoskiego, portugalskiego, polskiego i rosyjskiego — brzmią naturalniej.\n• Kwestia złożona z samych cyfr jest czytana słowami we właściwym języku.\n• Okna programu otwierają się bez zawieszania.\n• Drobne poprawki."
+    },
+    "sha256": "a69a0705b86b3e8e8be260ee01f9058357c09225937b0d2ff5e799a95f7ed5aa",
+    "bytes": 2792352895,
+    "unpacked_mb": 4186
   },
   "mac": {
     "version": "1.0.5",
