@@ -2,23 +2,23 @@
   "schema": 1,
   "product": "PaliyTech Dubbing",
   "win": {
-    "version": "1.0.7",
-    "date": "2026-11-26",
-    "file": "PaliyTechDubbing-v1.0.7-win64.zip",
+    "version": "1.0.8",
+    "date": "2026-11-28",
+    "file": "PaliyTechDubbing-v1.0.8-win64.zip",
     "size_mb": 2664,
     "notes": {
-      "ru": "• Новый вид программы: разделы в меню слева, перевод видео в три простых шага, а для опытных — расширенный режим со всеми настройками.\n• Настройки собраны плитками — нужное находится быстрее.\n• Активация в одном окне: «Купить в Telegram» или «У меня есть код».\n• Гарантия возврата денег 14 дней: условия лицензии обновлены, программа один раз попросит их принять.\n• Мелкие исправления.",
-      "uk": "• Новий вигляд програми: розділи в меню ліворуч, переклад відео у три прості кроки, а для досвідчених — розширений режим з усіма налаштуваннями.\n• Налаштування зібрано плитками — потрібне знаходиться швидше.\n• Активація в одному вікні: «Купити в Telegram» або «У мене є код».\n• Гарантія повернення коштів 14 днів: умови ліцензії оновлено, програма один раз попросить їх прийняти.\n• Дрібні виправлення.",
-      "en": "• A new look: sections in the left sidebar, video translation in three simple steps, and an advanced mode with all the settings for experienced users.\n• Settings are grouped into tiles, so you find what you need faster.\n• Activation in one window: \"Buy in Telegram\" or \"I have a code\".\n• 14-day money-back guarantee: the license terms have been updated, and the program will ask you to accept them once.\n• Minor fixes.",
-      "de": "• Neues Aussehen: Bereiche in der linken Seitenleiste, Videoübersetzung in drei einfachen Schritten und für Erfahrene ein erweiterter Modus mit allen Einstellungen.\n• Die Einstellungen sind in Kacheln geordnet – so finden Sie schneller, was Sie suchen.\n• Aktivierung in einem Fenster: „In Telegram kaufen“ oder „Ich habe einen Code“.\n• 14-Tage-Geld-zurück-Garantie: Die Lizenzbedingungen wurden aktualisiert, das Programm bittet Sie einmal, sie zu akzeptieren.\n• Kleinere Korrekturen.",
-      "fr": "• Nouvelle apparence : les sections dans le menu de gauche, la traduction d'une vidéo en trois étapes simples et, pour les utilisateurs expérimentés, un mode avancé avec tous les réglages.\n• Les réglages sont regroupés en tuiles : vous trouvez plus vite ce qu'il vous faut.\n• Activation dans une seule fenêtre : « Acheter dans Telegram » ou « J’ai un code ».\n• Garantie satisfait ou remboursé de 14 jours : les conditions de licence ont été mises à jour, le programme vous demandera une fois de les accepter.\n• Corrections mineures.",
-      "es": "• Nuevo aspecto: secciones en el menú de la izquierda, traducción de vídeo en tres pasos sencillos y, para usuarios con experiencia, un modo avanzado con todos los ajustes.\n• Los ajustes están agrupados en mosaicos: encuentras lo que necesitas más rápido.\n• Activación en una sola ventana: «Comprar en Telegram» o «Tengo un código».\n• Garantía de devolución del dinero de 14 días: se han actualizado las condiciones de la licencia y el programa te pedirá aceptarlas una vez.\n• Correcciones menores.",
-      "it": "• Nuovo aspetto: sezioni nel menu a sinistra, traduzione del video in tre semplici passaggi e, per gli utenti esperti, una modalità avanzata con tutte le impostazioni.\n• Le impostazioni sono raggruppate in riquadri: trovi più in fretta ciò che ti serve.\n• Attivazione in un'unica finestra: «Compra su Telegram» o «Ho un codice».\n• Garanzia «soddisfatti o rimborsati» di 14 giorni: le condizioni di licenza sono state aggiornate e il programma ti chiederà una volta di accettarle.\n• Correzioni minori.",
-      "pt": "• Novo visual: secções no menu à esquerda, tradução de vídeo em três passos simples e, para utilizadores experientes, um modo avançado com todas as configurações.\n• As configurações estão agrupadas em blocos — encontra o que precisa mais depressa.\n• Ativação numa só janela: «Comprar no Telegram» ou «Tenho um código».\n• Garantia de reembolso de 14 dias: as condições da licença foram atualizadas e o programa pedirá uma vez que as aceite.\n• Pequenas correções.",
-      "pl": "• Nowy wygląd: sekcje w menu po lewej, tłumaczenie wideo w trzech prostych krokach, a dla zaawansowanych — tryb rozszerzony ze wszystkimi ustawieniami.\n• Ustawienia są pogrupowane w kafelki — szybciej znajdziesz to, czego potrzebujesz.\n• Aktywacja w jednym oknie: „Kup w Telegramie” lub „Mam kod”.\n• 14-dniowa gwarancja zwrotu pieniędzy: warunki licencji zostały zaktualizowane, program raz poprosi o ich akceptację.\n• Drobne poprawki."
+      "ru": "• Плитки в разделах «Настройки» и «Справка» снова открываются щелчком мыши.\n• Руководство и Telegram открываются поверх окна программы.\n• Двойной щелчок в окне «Управление категориями» снова открывает категорию для правки.",
+      "uk": "• Плитки в розділах «Налаштування» і «Довідка» знову відкриваються клацанням миші.\n• Посібник і Telegram відкриваються поверх вікна програми.\n• Подвійне клацання у вікні «Керування категоріями» знову відкриває категорію для редагування.",
+      "en": "• Tiles in Settings and Help open with a mouse click again.\n• The guide and Telegram now open on top of the program window.\n• Double-clicking in the “Manage categories” window opens a category for editing again.",
+      "de": "• Die Kacheln in „Einstellungen“ und „Hilfe“ lassen sich wieder per Mausklick öffnen.\n• Anleitung und Telegram öffnen sich jetzt über dem Programmfenster.\n• Ein Doppelklick im Fenster „Kategorienverwaltung“ öffnet eine Kategorie wieder zum Bearbeiten.",
+      "fr": "• Les tuiles des sections « Paramètres » et « Aide » s'ouvrent de nouveau d'un clic de souris.\n• Le guide et Telegram s'ouvrent désormais au-dessus de la fenêtre du programme.\n• Un double-clic dans la fenêtre « Gestion des catégories » ouvre de nouveau une catégorie pour la modifier.",
+      "es": "• Los mosaicos de «Ajustes» y «Ayuda» vuelven a abrirse con un clic del ratón.\n• La guía y Telegram ahora se abren encima de la ventana del programa.\n• Un doble clic en la ventana «Administración de categorías» vuelve a abrir una categoría para editarla.",
+      "it": "• I riquadri di «Impostazioni» e «Aiuto» si aprono di nuovo con un clic del mouse.\n• La guida e Telegram ora si aprono sopra la finestra del programma.\n• Il doppio clic nella finestra «Gestione delle categorie» apre di nuovo una categoria da modificare.",
+      "pt": "• Os blocos de «Configurações» e «Ajuda» voltam a abrir com um clique do rato.\n• O guia e o Telegram passam a abrir por cima da janela do programa.\n• O duplo clique na janela «Gerenciamento de categorias» volta a abrir uma categoria para edição.",
+      "pl": "• Kafelki w sekcjach „Ustawienia” i „Pomoc” znów otwierają się kliknięciem myszy.\n• Przewodnik i Telegram otwierają się teraz nad oknem programu.\n• Dwukrotne kliknięcie w oknie „Zarządzanie kategoriami” znów otwiera kategorię do edycji."
     },
-    "sha256": "61944ab3e70a250f74e09775e4fa6d536a4d7c86968c4e1b85e4f861b5491867",
-    "bytes": 2793763030,
+    "sha256": "b20d49323f6bb1d7d0156b10dc8fa069f630010dafe356920bdb00f37c02ec30",
+    "bytes": 2793761619,
     "unpacked_mb": 4187
   },
   "mac": {
