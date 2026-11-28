@@ -2,23 +2,23 @@
   "schema": 1,
   "product": "PaliyTech Dubbing",
   "win": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "date": "2026-11-28",
-    "file": "PaliyTechDubbing-v1.0.8-win64.zip",
+    "file": "PaliyTechDubbing-v1.0.9-win64.zip",
     "size_mb": 2664,
     "notes": {
-      "ru": "• Плитки в разделах «Настройки» и «Справка» снова открываются щелчком мыши.\n• Руководство и Telegram открываются поверх окна программы.\n• Двойной щелчок в окне «Управление категориями» снова открывает категорию для правки.",
-      "uk": "• Плитки в розділах «Налаштування» і «Довідка» знову відкриваються клацанням миші.\n• Посібник і Telegram відкриваються поверх вікна програми.\n• Подвійне клацання у вікні «Керування категоріями» знову відкриває категорію для редагування.",
-      "en": "• Tiles in Settings and Help open with a mouse click again.\n• The guide and Telegram now open on top of the program window.\n• Double-clicking in the “Manage categories” window opens a category for editing again.",
-      "de": "• Die Kacheln in „Einstellungen“ und „Hilfe“ lassen sich wieder per Mausklick öffnen.\n• Anleitung und Telegram öffnen sich jetzt über dem Programmfenster.\n• Ein Doppelklick im Fenster „Kategorienverwaltung“ öffnet eine Kategorie wieder zum Bearbeiten.",
-      "fr": "• Les tuiles des sections « Paramètres » et « Aide » s'ouvrent de nouveau d'un clic de souris.\n• Le guide et Telegram s'ouvrent désormais au-dessus de la fenêtre du programme.\n• Un double-clic dans la fenêtre « Gestion des catégories » ouvre de nouveau une catégorie pour la modifier.",
-      "es": "• Los mosaicos de «Ajustes» y «Ayuda» vuelven a abrirse con un clic del ratón.\n• La guía y Telegram ahora se abren encima de la ventana del programa.\n• Un doble clic en la ventana «Administración de categorías» vuelve a abrir una categoría para editarla.",
-      "it": "• I riquadri di «Impostazioni» e «Aiuto» si aprono di nuovo con un clic del mouse.\n• La guida e Telegram ora si aprono sopra la finestra del programma.\n• Il doppio clic nella finestra «Gestione delle categorie» apre di nuovo una categoria da modificare.",
-      "pt": "• Os blocos de «Configurações» e «Ajuda» voltam a abrir com um clique do rato.\n• O guia e o Telegram passam a abrir por cima da janela do programa.\n• O duplo clique na janela «Gerenciamento de categorias» volta a abrir uma categoria para edição.",
-      "pl": "• Kafelki w sekcjach „Ustawienia” i „Pomoc” znów otwierają się kliknięciem myszy.\n• Przewodnik i Telegram otwierają się teraz nad oknem programu.\n• Dwukrotne kliknięcie w oknie „Zarządzanie kategoriami” znów otwiera kategorię do edycji."
+      "ru": "• «Перезапустить сейчас» после смены темы снова открывает программу заново.\n• Клавиша Tab ходит только по видимым кнопкам; пробел и Enter нажимают плитки.\n• Окно о новой версии появляется при первом же запуске после её выхода.\n• Числа в речи больше не пропадают из озвучки; исправлены мелочи в глоссарии, очереди, истории и офлайн-пакетах.",
+      "uk": "• «Перезапустити зараз» після зміни теми знову відкриває програму заново.\n• Клавіша Tab ходить лише по видимих кнопках; пробіл і Enter натискають плитки.\n• Вікно про нову версію з'являється під час першого ж запуску після її виходу.\n• Числа в мовленні більше не зникають з озвучення; виправлено дрібниці в глосарії, черзі, історії та офлайн-пакетах.",
+      "en": "• “Restart now” after changing the theme reopens the program again.\n• The Tab key now moves only through visible buttons; Space and Enter press tiles.\n• The new-version window appears on the very first launch after a release.\n• Numbers in speech no longer go missing from the dub; small fixes in the glossary, queue, history and offline packs.",
+      "de": "• „Jetzt neu starten“ nach einem Themenwechsel öffnet das Programm wieder neu.\n• Die Tab-Taste springt nur noch zwischen sichtbaren Schaltflächen; Leertaste und Enter drücken Kacheln.\n• Das Fenster zur neuen Version erscheint schon beim ersten Start nach ihrem Erscheinen.\n• Zahlen in der Sprache gehen in der Vertonung nicht mehr verloren; kleine Korrekturen in Glossar, Warteschlange, Verlauf und Offline-Paketen.",
+      "fr": "• « Redémarrer » après un changement de thème rouvre de nouveau le programme.\n• La touche Tab ne parcourt plus que les boutons visibles ; Espace et Entrée activent les tuiles.\n• La fenêtre de nouvelle version apparaît dès le premier lancement après sa sortie.\n• Les nombres prononcés ne disparaissent plus du doublage ; petites corrections dans le glossaire, la file, l'historique et les packs hors ligne.",
+      "es": "• «Reiniciar ahora» tras cambiar el tema vuelve a abrir el programa.\n• La tecla Tab recorre solo los botones visibles; Espacio y Enter pulsan los mosaicos.\n• La ventana de nueva versión aparece en el primer inicio tras su publicación.\n• Los números hablados ya no desaparecen del doblaje; pequeñas correcciones en el glosario, la cola, el historial y los paquetes sin conexión.",
+      "it": "• «Riavvia ora» dopo il cambio di tema riapre di nuovo il programma.\n• Il tasto Tab passa solo tra i pulsanti visibili; Spazio e Invio premono i riquadri.\n• La finestra della nuova versione compare già al primo avvio dopo l'uscita.\n• I numeri parlati non spariscono più dal doppiaggio; piccole correzioni a glossario, coda, cronologia e pacchetti offline.",
+      "pt": "• «Reiniciar agora» depois de mudar o tema volta a abrir o programa.\n• A tecla Tab percorre apenas os botões visíveis; Espaço e Enter acionam os blocos.\n• A janela de nova versão aparece logo no primeiro arranque após o lançamento.\n• Os números falados já não desaparecem da dobragem; pequenas correções no glossário, fila, histórico e pacotes offline.",
+      "pl": "• „Uruchom ponownie” po zmianie motywu znów otwiera program na nowo.\n• Klawisz Tab przechodzi tylko po widocznych przyciskach; spacja i Enter naciskają kafelki.\n• Okno o nowej wersji pojawia się już przy pierwszym uruchomieniu po jej wydaniu.\n• Liczby w mowie nie znikają już z dubbingu; drobne poprawki w glosariuszu, kolejce, historii i pakietach offline."
     },
-    "sha256": "b20d49323f6bb1d7d0156b10dc8fa069f630010dafe356920bdb00f37c02ec30",
-    "bytes": 2793761619,
+    "sha256": "02440653985c73adf6472c1fbc8f842e55399257c48246fe2c38aa883957ba76",
+    "bytes": 2793775944,
     "unpacked_mb": 4187
   },
   "mac": {
